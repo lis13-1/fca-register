@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+register.fca.org.uk	TRUE	/s	FALSE	1999999999	renderCtx	%7B%22pageId%22%3A%22922261dc-3a57-43d4-b935-738165077428%22%2C%22schema%22%3A%22Published%22%2C%22viewType%22%3A%22Published%22%2C%22brandingSetId%22%3A%22a2b6ba83-36cd-4a67-b6a3-19ef03e46e8f%22%2C%22audienceIds%22%3A%22%22%7D
+register.fca.org.uk	TRUE	/	FALSE	1999999999	CookieConsentPolicy	0:1
+register.fca.org.uk	TRUE	/	FALSE	1999999999	LSKey-c$CookieConsentPolicy	0:1
+
